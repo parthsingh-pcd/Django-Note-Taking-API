@@ -21,7 +21,7 @@ These instructions will get you a copy of the project up and running on your loc
 ## Installation
 - Clone the repository
 
-    git clone https://github.com/yourusername/django-notes-api.git
+    git clone https://github.com/parthsingh-pcd/django-notes-api.git
     cd django-notes-api
 - Set up a virtual environment
 
