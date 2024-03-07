@@ -2,14 +2,14 @@
 
 This Django project provides a simple RESTful API for a note-taking application. Built with Django and Django REST Framework, it allows for creating, fetching, querying, and updating notes. This API is designed to be straightforward, focusing on the backend functionality without user management. Additionally, this project includes Swagger UI integration for easy testing and interaction with the API endpoints.
 
-##Features
+## Features
 - Create Notes: Add new notes with titles and content.
 - Retrieve Notes: Fetch a list of all notes or a specific note by ID.
 - Update Notes: Modify the title or content of an existing note.
 - Query Notes: Filter notes based on specific criteria (e.g., keywords in the title or content).
 - Swagger UI: Test API endpoints directly through an auto-generated, interactive API documentation.
 
-##Getting Started
+## Getting Started
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
 ##Prerequisites
@@ -18,7 +18,7 @@ These instructions will get you a copy of the project up and running on your loc
 - Django REST Framework
 - drf-yasg for Swagger UI
 
-##Installation
+## Installation
 - Clone the repository
 
     git clone https://github.com/yourusername/django-notes-api.git
