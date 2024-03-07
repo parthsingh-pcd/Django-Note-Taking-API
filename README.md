@@ -12,7 +12,7 @@ This Django project provides a simple RESTful API for a note-taking application.
 ## Getting Started
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
-##Prerequisites
+## Prerequisites
 - Python 3.8 or higher
 - Django 3.2 or higher
 - Django REST Framework
